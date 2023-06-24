@@ -49,3 +49,18 @@ ol, ul {
   margin-left: 20px;
 }
 
+.stone {
+  width: 25px;
+  height: 25px;
+  border-radius: 21px;
+  border: #3d3d3d solid 1px;
+  margin: 0 auto;
+}
+
+.black-stone {
+  background-color: black;
+}
+
+.white-stone {
+  background-color: white;
+}
